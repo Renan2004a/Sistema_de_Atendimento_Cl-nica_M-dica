@@ -35,5 +35,5 @@ Retorna verdadeiro se não houver pacientes na fila.
 Renan Alves Tavares
 
 # Docente
-Johnatan Alves De Oliveira - Estrutura de Dados
+Johnatan Alves De Oliveira
 
