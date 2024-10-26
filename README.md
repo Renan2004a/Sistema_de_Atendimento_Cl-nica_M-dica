@@ -1,7 +1,7 @@
 # Sistema de Atendimento em uma Clínica Médica
 
 # Descrição
-Este programa simula um sistema de atendimento para uma clínica médica utilizando uma fila circular. A fila é usada para gerenciar pacientes que aguardam por atendimento médico. Pacientes são adicionados à fila quando chegam à clínica e removidos da fila quando chamados para atendimento, garantindo que o paciente que está esperando há mais tempo seja atendido primeiro (modelo FIFO - First In, First Out). Este programa é a entrega da Tarefa "FILA" na disciplina Estrutura de Dados
+Este programa simula um sistema de atendimento para uma clínica médica utilizando uma fila circular. A fila é usada para gerenciar pacientes que aguardam por atendimento médico. Pacientes são adicionados à fila quando chegam à clínica e removidos da fila quando chamados para atendimento, garantindo que o paciente que está esperando há mais tempo seja atendido primeiro (modelo FIFO - First In, First Out). Este programa é a entrega da Tarefa "FILA" na disciplina Estrutura de Dados. O sistema foi desenvolvido através da plataforma Replit e o código fonte pode ser encontrado no commit "main.c".
 
 # Estrutura de Dados
 A fila circular é representada por uma estrutura que contém os seguintes campos:
